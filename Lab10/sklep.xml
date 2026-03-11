@@ -1,0 +1,22 @@
+<sklep>
+    <item id="101" kategoria="książka">
+        <nazwa>Python dla początkujących</nazwa>
+        <cena>59.90</cena>
+    </item>
+    <vitem id="201" kategoria="ebook">
+        <nazwa>Python dla początkujących (eBook)</nazwa>
+        <cena>29.90</cena>
+    </vitem>
+    <item id="102" kategoria="muzyka">
+        <nazwa>Greatest Hits - CD</nazwa>
+        <cena>39.90</cena>
+    </item>
+    <vitem id="202" kategoria="mp3">
+        <nazwa>Greatest Hits - MP3</nazwa>
+        <cena>19.90</cena>
+    </vitem>
+    <vitem id="203" kategoria="pdf">
+        <nazwa>Instrukcja obsługi (PDF)</nazwa>
+        <cena>9.90</cena>
+    </vitem>
+</sklep>

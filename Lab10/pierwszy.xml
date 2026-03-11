@@ -1,0 +1,12 @@
+<dane typ="przykladowe">
+    <osoba id="1" rola="student">
+        <imie>Anna</imie>
+        <nazwisko>Kowalska</nazwisko>
+        <kontakt email="anna@example.com" telefon="123-456-789" />
+    </osoba>
+    <osoba id="2" rola="wykladowca">
+        <imie>Jan</imie>
+        <nazwisko>Nowak</nazwisko>
+        <kontakt email="jan@example.com" telefon="987-654-321" />
+    </osoba>
+</dane>

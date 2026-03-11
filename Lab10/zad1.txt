@@ -1,0 +1,5 @@
+To jest pierwsza linia tekstu.
+Druga linia ma inny tekst.
+Trzecia linia zawiera liczby: 123 456 789
+Czwarta linia ma znaki specjalne: !@#$%^&*()
+Piąta linia kończy plik.
